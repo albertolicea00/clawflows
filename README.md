@@ -23,4 +23,6 @@ openclaw skills install albertolicea00/clawflows/<workflow-name>
 
 ## License
 
-[MIT](LICENSE) © Alberto Licea
+[MIT](LICENSE) — Powered by @albertolicea00 and his unstoppable AI‑agents
+
+> 🤖 Many of these workflows are **AI‑generated** and then reviewed & refined by me. The AI drafts, I review — nothing gets merged without my approval.
