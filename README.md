@@ -27,8 +27,8 @@ openclaw skills install albertolicea00/clawflows/<workflow-name>
 
 > 🤖 Many of these workflows are **AI‑generated** and then reviewed & refined by me. The AI drafts, I review — nothing gets merged without my approval.
 
-<a href="https://github.com/albertolicea00/clawflows/graphs/contributors">
+<!-- <a href="https://github.com/albertolicea00/clawflows/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=albertolicea00/clawflows" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+Made with [contrib.rocks](https://contrib.rocks). -->
