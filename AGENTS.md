@@ -55,8 +55,32 @@ description: One-line summary of what the workflow automates
 - One workflow per directory; don't bundle unrelated automations.
 - A workflow must be testable through OpenClaw before it is considered done.
 - Update `CHANGELOG.md` only for core changes — see below.
+- A new workflow goes through the templates: `new-workflow` issue first, then a PR — see
+  "New workflow procedure" below.
 - Follow `CONTRIBUTING.md` for the full add-a-workflow procedure and quality checklist;
   `.github/PULL_REQUEST_TEMPLATE.md` mirrors that checklist.
+
+## New workflow procedure
+
+Every new workflow goes through the templates. No workflow is added straight to `main` from a
+loose commit.
+
+1. **Open an issue** with `.github/ISSUE_TEMPLATE/new-workflow.md` (the 🆕 New Workflow template,
+   label `new-workflow`). Fill in the name, description, trigger, the `SKILL.md` frontmatter
+   block, and the steps preview before writing any files. The issue is where the workflow is
+   agreed on; the PR is only where it is delivered.
+2. **Write the workflow** on a branch, following the `SKILL.md` contract and layout above and the
+   procedure in `CONTRIBUTING.md`.
+3. **Test it through OpenClaw** — see "Verification" below.
+4. **Open a PR** with `.github/PULL_REQUEST_TEMPLATE.md`, tick 🆕 New workflow under Type, link
+   the issue (`Closes #<n>`), and complete the checklist and the Testing section with the real
+   trigger prompt and expected vs actual output.
+5. **Add the changelog entry** under `## [Unreleased]` → `### Added` — adding a workflow is a
+   core change.
+
+The same issue-then-PR flow applies to renaming, removing, or changing the behaviour of an
+existing workflow; use the PR template's matching Type checkbox. Pure documentation or metadata
+edits need no issue.
 
 ## Changelog policy
 
