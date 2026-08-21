@@ -25,6 +25,10 @@ Or install a single workflow:
 openclaw skills install albertolicea00/clawflows/<workflow-name>
 ```
 
+## Credits
+
+Based on [clawflows](https://github.com/nikilster/clawflows) by [@nikilster](https://github.com/nikilster) — [clawflows.com](https://clawflows.com/).
+
 ## License
 
 [MIT](LICENSE) — Powered by @albertolicea00 and his unstoppable AI‑agents
