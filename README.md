@@ -25,9 +25,12 @@ Or install a single workflow:
 openclaw skills install albertolicea00/clawflows/<workflow-name>
 ```
 
-## Credits
+## Related repos
 
-Based on [clawflows](https://github.com/nikilster/clawflows) by [@nikilster](https://github.com/nikilster) — [clawflows.com](https://clawflows.com/).
+Good people building good things in the same space ✨ go give them a star:
+
+- [**albertolicea00/agentskills**](https://github.com/albertolicea00/agentskills) — my collection of agent skills.
+- [**nikilster/clawflows**](https://github.com/nikilster/clawflows) — the original project this one is based on. ([clawflows.com](https://clawflows.com/))
 
 ## License
 
