@@ -1,6 +1,10 @@
 <!-- # >> clawflows -->
 
-![ascii-art-text](ascii-art-text.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="ascii-art-text-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="ascii-art-text-light.png">
+  <img alt="clawflows" src="ascii-art-text-light.png">
+</picture>
 
 My personal collection of workflows for **OpenClaw** — the ones I actually use.  
 Automate multi‑step tasks through 🐾 OpenClaw's agentic framework.
