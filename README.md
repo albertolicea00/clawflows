@@ -34,7 +34,7 @@ Good people building good things in the same space ✨ go give them a star:
 
 ## License
 
-[MIT](LICENSE) — Powered by @albertolicea00 and his unstoppable AI‑agents
+[Unlicense](UNLICENSE) — Powered by @albertolicea00 and his unstoppable AI‑agents
 
 > 🤖 Many of these workflows are **AI‑generated** and then reviewed & refined by me. The AI drafts, I review — nothing gets merged without my approval.
 
